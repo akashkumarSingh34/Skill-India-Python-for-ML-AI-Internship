@@ -1,5 +1,5 @@
 # Skill-India-Python-for-ML-AI-Internship
-This repository contains a basic Inventory Management System Project using python programming features like dictionary, list and storing data in json files.
+This repository contains a basic Inventory Management System Project using python programming features like dictionary, list and storing data in json files in jupyter notebook and atom
 
 ###Description
 #following is the description of all important functions in the project
