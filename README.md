@@ -34,6 +34,10 @@ This repository contains a basic Inventory Management System Project using pytho
 
 #get_quantity_price() - function to verify and get the correct quantity and price of the product
 
+#Record.json contains 31 items 
+
+###Sales.json contains 11 transcation history
+
 #About me:
 
 #I am an undergraduate '2023 in Computer Engineering from Goa College Engineering
