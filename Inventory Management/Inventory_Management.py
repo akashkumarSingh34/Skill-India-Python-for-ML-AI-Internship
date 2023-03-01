@@ -637,6 +637,7 @@ def sales(buy):
             print("\nDiscount:\t" ,bill[key]['Discount'])
         print("\nTotal Amount:\t" ,bill[key]['Total'])
 
+        
 
 
 
